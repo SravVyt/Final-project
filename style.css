@@ -4,3 +4,10 @@ font-family: 'Exo', sans-serif;
 body{
   background:lightblue
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0.5px solidblack;
+}
