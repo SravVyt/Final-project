@@ -7,3 +7,15 @@ font-family: 'Shadows Into Light', cursive;
 
 body {font-size: 25px;
 }
+
+  body {
+  padding: 20px;  }
+button {
+    margin-top: 20px;
+    line-height: 60
+      font-weight: bold;
+   padding: 0 40px;
+   background:lightgreen;
+    border: none;
+  }
+
