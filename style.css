@@ -14,7 +14,7 @@ button {
     margin-top: 20px;
     line-height: 60
       font-weight: bold;
-   padding: 40px;
+   padding: 0 40px;
    background:lightgreen;
     border: none;
   }
