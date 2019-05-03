@@ -1,14 +1,18 @@
 body{
 font-family: 'Shadows Into Light', cursive;
 }
-{
-  background: lightblue
+body{
+  background: rgb(204, 238, 255)
 }
 
 body {font-size: 25px;
 }
 
- body {
+body{
+font-family: 'Shadows Into Light', cursive;
+}
+
+body {
   padding: 20px;
 }
 button {
@@ -20,4 +24,5 @@ button {
   background: lightgreen;
   border: none;
 }
+
 
